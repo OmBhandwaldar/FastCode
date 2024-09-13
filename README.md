@@ -19,11 +19,6 @@ FastCode is a comprehensive course-selling platform that allows users to purchas
 - <b>PostgreSQL & Prisma:</b> Used Prisma ORM with PostgreSQL to manage database interactions and ensure data consistency across the platform.
 - <b>Shadcn Components:</b> Utilized Shadcn UI components to enhance the user interface and provide a modern, accessible design for both users and instructors.
 
-## Impact
-
-- <b>Streamlined Learning Experience:</b> Delivered an intuitive platform where users can easily purchase and access courses, improving the overall learning experience.
-- <b>Instructor-Friendly Tools:</b> Created tools for instructors to manage course content efficiently, reducing their workload and improving content organization.
-- <b>Secure Transactions:</b> Ensured secure handling of payments with support for multiple payment methods, increasing trust and reliability for users.
 
 ## Getting Started
 
