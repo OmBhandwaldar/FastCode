@@ -27,4 +27,4 @@ To get started with FastCode locally:
 ```bash
 git clone https://github.com/OmBhandwaldar/FastCode.git
 cd FastCode
-docker compose up
+docker-compose up
